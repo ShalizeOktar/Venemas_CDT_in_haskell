@@ -6,7 +6,7 @@ CDT:
 Next to the classic logical operators $\wedge$, $\vee$, $\neg$ and $\rightarrow$, the modal logical operators $Chop$, $Done$ and $To Come$ are added.
 
 Implementation:
-The implemetnation can be found in --Dateipfad-- and a detailed explanation in our paper --Dateipfad--.
+The implementation can be found in --Dateipfad-- and a detailed explanation in our paper --Dateipfad--.
 
 `Version: GHC 9.12.2`
 
