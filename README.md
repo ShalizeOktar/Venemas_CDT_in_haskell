@@ -6,7 +6,7 @@ CDT:
 Next to the classic logical operators $\wedge$, $\vee$, $\neg$ and $\rightarrow$, the modal logical operators $Chop$, $Done$ and $To Come$ are added.
 
 Implementation:
-The implementation can be found in CDTinHaskell.hs and a detailed explanation in our paper.
+The implementation can be found in CDTinHaskell.hs and a detailed explanation in our paper CDTinHaskell.pdf.
 
 `Version: GHC 9.12.2`
 
